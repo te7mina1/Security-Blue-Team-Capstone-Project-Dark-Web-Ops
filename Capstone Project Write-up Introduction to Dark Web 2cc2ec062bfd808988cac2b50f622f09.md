@@ -22,6 +22,8 @@ Last month, our efforts led to the successful dismantling of a major drug traffi
 
 **4] Site:** http://panznjcktrpezyln5frnjxf5gv4xoyi7wvd3ykeu6bejxvbynhfpasqd.onion
 
+**NOTE: ONLY USE TOR BROWSER**
+
 ## Challenge Walk-through
 
 ![image.png](Capstone%20Project%20Write-up%20Introduction%20to%20Dark%20Web/image%202.png)
